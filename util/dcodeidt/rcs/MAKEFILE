@@ -1,0 +1,53 @@
+head     1.1;
+branch   ;
+access   ;
+symbols  ;
+locks    ; strict;
+comment  @# @;
+
+
+1.1
+date     93.02.01.01.59.28;  author ROOT_DOS;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@Makefile for idt2txt.c
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#
+#
+#  Makefile for utility program IDT2TXT
+#
+#
+TARGET = idt2txt
+SRC = idt2txt.c citation.c citlow.c bit.c
+OBJS= idt2txt.obj citation.obj citlow.obj bit.obj
+LIBS=
+MODEL=s
+FLAGS= -v -f -m$(MODEL)
+ARC=$(TARGET).arc
+
+$(TARGET): $(OBJS)
+        tcc $(FLAGS) $(LIBS) $(OBJS)
+
+.c.obj:
+        tcc -c $(FLAGS) $<
+
+clean:
+        del *.obj
+        del *.exe
+        del *.map
+
+archive:
+        pkarc a $(ARC) *.c *.h makefile
+        make clean
+@

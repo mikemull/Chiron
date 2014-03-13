@@ -1,0 +1,54 @@
+Cellar Door Software announces the availability of :
+
+			CHIRON© v1.1 for MS-DOS
+
+CHIRON is a complete text browsing and searching environment for
+the Thesaurus Linguae Graecae CD-ROM "D".  CHIRON allows
+researches to search the Greek texts on the TLG CD-ROM for
+specific words or patterns, browse texts for any author and work
+combination, examine the canonical information for any work, and
+print or save sections of any of the texts, plus much more.
+
+		CHIRON v1.1 partial feature list:
+
+	Supports TLG  CD-ROM "D"
+	Custom Graphical User Interface
+	Search word list index or text
+	Search for patterns with undetermined characters using wildcards
+	Search for combination of patters using boolean operators
+	Ignore or include diacriticals when searching
+	User definable search contexts
+	Text Browsing with text display in Greek with full diacriticals
+	Full citation display and searching based on citation values
+	Save text and canon entries to disk file or print to supported
+	     printers
+	On-line help
+
+		MINIMUM SYSTEM REQUIREMENTS
+
+	80286, 80386 or 80486 based personal computer
+	MS-DOS operating system version 3.1 or later
+	640K conventional memory
+	CGA or higher video graphics adapter and monitor
+	CD-ROM drive
+	One 5.25" or 3.5" disk drive 
+	Hard disk with at least 300 Kb free space
+
+CHIRON is developed and distributed as shareware by Cellar Door
+Software. 
+
+To order a fully featured evaluation copy of CHIRON including an
+ASCII version of the documentation send your name along with
+your complete return postal address to:
+
+		Cellar Door Software
+		10831 Montego Drive
+		San Diego, Ca 92124
+	
+Or Internet e-mail to: mmull@electriciti.com or garyhski@aol.com
+
+A evaluation copy of CHIRON is also available via anonymous FTP on the 
+SIMTEL MS-DOS archives in the pub/msdos/cdrom directory as the file
+chron112.zip
+
+

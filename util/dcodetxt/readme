@@ -1,0 +1,17 @@
+
+        txtcit.c
+
+        Usage :
+                txtcit [ -i infile ] [-o outfile ] [ -sb start_block ]
+                       [ -eb end_block ]
+
+        if infile not specified, defaults to stdin
+        if outfile not specified, defaults to stdout
+        default sb = 0;
+        default eb = end of file if sb == 0 else eb == sb +1
+
+        txtcit parses a tlg .txt file with embedded citation information
+        and produces a clean ASCII text file with ech betatext line
+        preceeded by it's decoded citation.
+
+

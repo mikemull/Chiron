@@ -1,0 +1,5 @@
+/c /v /m /d \lang\borlandc\lib\c0l chiron, chiron, chiron, +
+tlg\tlg.lib print\cprint.lib mwin\mwin.lib \lang\borlandc\lib\graphics +
+\lang\borlandc\lib\cl
+
+

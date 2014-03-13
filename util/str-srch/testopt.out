@@ -1,0 +1,28 @@
+Total iteration count = 10000
+Pattern = SKEU/H
+Ignore_set = Searching file ..\..\data\tlg0343.txt
+Optimization level -Ox
+
+** strstr() results **
+     Total elapsed time = 73 seconds
+     elapsed time per search = 0.007300 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BM_Srch() results **
+     Total elapsed time = 75 seconds
+     elapsed time per search = 0.007500 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 1778 seconds
+     elapsed time per search = 0.177800 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 1587 seconds
+     elapsed time per search = 0.158700 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+

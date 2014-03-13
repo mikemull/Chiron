@@ -1,0 +1,856 @@
+--FILE---AUTHOR----------------SYN COUNT---REM--SIZE--LANG
+*TLG -TLG Greek Data Bank -0 - - -g
+TLG1832  -1Acesander& Hist. -0 - - -
+TLG0309  -&1Achaeus& Trag. -0 - - -
+TLG0532  -&1Achilles Tatius& Scr. Erot. -0 - - -
+TLG2012  -1Acta Eupli& -0 - - -
+TLG0317  -1Acta Joannis& -0 - - -
+TLG0384  -1Acta Justini et Septem Sodalium& -0 - - -
+TLG0388  -&1Acta Pauli& -0 - - -
+TLG0389  -1Acta Petri& -0 - - -
+TLG2014  -1Acta Phileae& -0 - - -
+TLG0304  -1Acta et Martyrium Apollonii& -0 - - -
+TLG0392  -&1Acusilaus& Hist. -0 - - -
+TLG0731  -&1Adamantius& Judaeus Med. -0 - - -
+TLG2648  -&1Adespota Papyracea, SH& -0 - - -
+TLG0545  -1Aelianus& Soph. -0 - - -
+TLG0026  -1Aeschines& Orat. -0 - - -
+TLG0679  -&1Aeschrion& Lyr. -0 - - -
+TLG0085  -1Aeschylus& Atheniensis Trag. -0 - - -
+TLG0321  -&1Aeschylus& Alexandrinus Trag. -0 - - -
+TLG0096  -1Aesopus& Scr. Fab. et &1Aesopica& -0 - - -
+TLG0718  -1Ae+tius& Amidenus Med. -0 - - -
+TLG2605  -&1Agamestor& Eleg. -0 - - -
+TLG0067  -&1Agatharchides& Geogr. -0 - - -
+TLG0318  -1Agathon& Trag. -0 - - -
+TLG2606  -&1Agathyllus& Eleg. -0 - - -
+TLG0676  -1Aglai+s& Poet. Med. -0 - - -
+TLG0693  -1Albinus& Phil. -0 - - -
+TLG0400  -&1Alcaeus& Comic. -0 - - -
+TLG0383  -1Alcaeus& Lyr. -0 - - -
+TLG0236  -1Alcibiades& [2Eleg.]2 -0 - - -
+TLG1780  -1Alcimenes& Atheniensis Comic. -0 - - -
+TLG0766  -1Alcmaeon& Phil. -0 - - -
+TLG0291  -1Alcman& Lyr. -0 - - -
+TLG0401  -&1Alexander& Comic. -0 - - -
+TLG0594  -1Alexander& Rhet. et Soph. -0 - - -
+TLG0216  -1Alexander& Trag. et Lyr. -0 - - -
+TLG0732  -&1Alexander& Aphrodisiensis Phil. -0 - - -
+TLG0744  -1Alexander& Trallianus Med. -0 - - -
+TLG0402  -&1Alexis& Comic. -0 - - -
+TLG0403  -&1Amipsias& Comic. -0 - - -
+TLG0289  -&1Ammonius& Epigr. -0 - - -
+TLG4016  -&1Ammonius& Phil. -0 - - -
+TLG2112  -1Amphilochius& Scr. Eccl. -0 - - -
+TLG0404  -&1Amphis& Comic. -0 - - -
+TLG0217  -&1Anacreon& Junior Eleg. -0 - - -
+TLG0237  -&1Anacreon& Lyr. -0 - - -
+TLG4150  -&1Anacreontea& -0 - - -
+TLG0238  -&1Ananius& Iamb. -0 - - -
+TLG0713  -&1Anaxagoras& Phil. -0 - - -
+TLG0405  -1Anaxandrides& Comic. -0 - - -
+TLG0714  -&1Anaxarchus& Phil. -0 - - -
+TLG0406  -1Anaxilas& Comic. -0 - - -
+TLG0725  -&1Anaximander& Phil. -0 - - -
+TLG0547  -&1Anaximenes& Hist. et Rhet. -0 - - -
+TLG0617  -&1Anaximenes& Phil. -0 - - -
+TLG0833  -1Anaxion& Trag. -0 - - -
+TLG0407  -&1Anaxippus& Comic. -0 - - -
+TLG0027  -1Andocides& Orat. -0 - - -
+TLG2703  -&1Anna Comnena& Hist. -0 - - -
+TLG0227  -1Anonymi Curetum Hymnus& -0 - - -
+TLG0072  -1Anonymi Grammatici& -0 - - -
+TLG1139  -1Anonymi Historici& -0 - - -
+TLG0228  -&1Anonymi Hymnus in Dactylos Idaeos& -0 - - -
+TLG4026  -&1Anonymi in Aristotelis Artem Rhetoricam& -0 - - -
+TLG4027  -&1Anonymi in Aristotelis Categorias& -0 - - -
+TLG4033  -&1Anonymi in Aristotelis Ethica Nicomachea& -0 - - -
+TLG9004  -1Anonymi in Aristotelis Librum Alterum Analyticorum Posteriorum Commentarium& -0 -tarium& - -
+TLG4032  -&1Anonymi in Aristotelis Librum Primum Analyticorum Posteriorum Commentarium& -0 -tarium& - -
+TLG4193  -1Anonymi in Aristotelis Sophisticos Elenchos& -0 - - -
+TLG4171  -&1Anonymi in Oppiani Opera& -0 - - -
+TLG0721  -1Anonymi Medici& -0 - - -
+TLG4005  -1Anonymus& Discipulus Isidori Milesii Mech. -0 - - -
+TLG1134  -&1Anonymus Iamblichi& Phil. -0 - - -
+TLG0643  -1Anonymus Londinensis& Med. -0 - - -
+TLG2002  -&1Anonymus Seguerianus& Rhet. -0 - - -
+TLG0215  -1Antagoras& Epic. -0 - - -
+TLG7000  -&1Anthologia Graeca& -1 - - -
+TLG7000  |-------  AG
+TLG7052  -1Anthologiae Graecae Appendix& -0 - - -
+TLG0409  -1Antidotus& Comic. -0 - - -
+TLG0568  -1Antigonus& Paradox. -0 - - -
+TLG0239  -1Antimachus& Eleg. et Epic. -0 - - -
+TLG0410  -&1Antiphanes& Comic. -0 - - -
+TLG0028  -&1Antiphon& Orat. -0 - - -
+TLG1147  -1Antiphon& Soph. -0 - - -
+TLG0323  -1Antiphon& Trag. -0 - - -
+TLG2313  -1Antisthenes& Phil. -0 - - -
+TLG0651  -&1Antoninus Liberalis& Myth. -0 - - -
+TLG0749  -&1Antyllus& Med. -0 - - -
+TLG1150  -&1Aphareus& Rhet. -0 - - -
+TLG1157  -1Apocalypsis Esdrae& -0 - - -
+TLG1158  -1Apocalypsis Joannis& -0 - - -
+TLG0412  -&1Apollodorus& Carystius vel &1Apollodorus& Gelous Comic. -0 - - -
+TLG0411  -1Apollodorus& Carystius Comic. -0 - - -
+TLG0413  -1Apollodorus& Gelous Comic. -0 - - -
+TLG0365  -&1Apollodorus& Lyr. -0 - - -
+TLG0548  -Pseudo-&1Apollodorus& Myth. -0 - - -
+TLG2319  -1Apollodorus& Phil. -0 - - -
+TLG0700  -&1Apollodorus& Trag. -0 - - -
+TLG0345  -&1Apollonides& Trag. -0 - - -
+TLG0394  -&1Apollonius& Comic. -0 - - -
+TLG0660  -&1Apollonius& Citiensis Med. -0 - - -
+TLG0001  -&1Apollonius Rhodius& Epic. -0 - - -
+TLG1168  -1Apollonius& Soph. -0 - - -
+TLG0619  -1Apollonius& Tyanensis Phil. -0 - - -
+TLG0414  -1Apollophanes& Comic. -0 - - -
+TLG0551  -&1Appianus& Hist. -0 - - -
+TLG2027  -1Apsines& Rhet. -0 - - -
+TLG0415  -&1Araros& Comic. -0 - - -
+TLG0653  -&1Aratus& Epic. et Astron. -0 - - -
+TLG0520  -&1Arcesilaus& Comic. -0 - - -
+TLG0416  -&1Archedicus& Comic. -0 - - -
+TLG0570  -&1Archelaus& Paradox. -0 - - -
+TLG2303  -1Archelaus& Phil. -0 - - -
+TLG1115  -&1Archestratus& Trag. -0 - - -
+TLG0661  -1Archigenes& Apamensis Med. -0 - - -
+TLG0232  -&1Archilochus& Iamb. et Eleg. -0 - - -
+TLG0131  -1Archimelus& Epigr. -0 - - -
+TLG0417  -&1Archippus& Comic. -0 - - -
+TLG0620  -1Archytas& Phil. -0 - - -
+TLG0719  -1Aretaeus& Med. -0 - - -
+TLG2130  -&1Arethas& Philol. et Scr. Eccl. -0 - - -
+TLG0378  -&1Ariphron& Lyr. -0 - - -
+TLG0418  -&1Aristagoras& Comic. -0 - - -
+TLG0306  -1Aristarchus& Trag. -0 - - -
+TLG0305  -&1Aristias& Trag. -0 - - -
+TLG2054  -1Aristides Quintilianus& Mus. -0 - - -
+TLG0284  -Aelius &1Aristides& Rhet. -0 - - -
+TLG2148  -1Aristodemus& Hist. -0 - - -
+TLG0419  -&1Aristomenes& Comic. -0 - - -
+TLG0204  -1Aristonous& Lyr. -0 - - -
+TLG0420  -&1Aristonymus& Comic. -0 - - -
+TLG0019  -1Aristophanes& Comic. -0 - - -
+TLG0644  -&1Aristophanes& Gramm. -0 - - -
+TLG0421  -&1Aristophon& Comic. -0 - - -
+TLG0086  -&1Aristoteles& Phil. et &1Corpus Aristotelicum& -1 - - -
+TLG0086  |-------  Aristotle
+TLG0088  -1Aristoxenus& Mus. -0 - - -
+TLG0241  -1Aristoxenus& [2Comic.]2 -0 - - -
+TLG0074  -Flavius &1Arrianus& Hist. et Phil. -0 - - -
+TLG2651  -&1Artemidorus& Eleg. -0 - - -
+TLG0137  -&1Asclepiades& Epigr. -0 - - -
+TLG4018  -1Asclepius& Phil. -0 - - -
+TLG0242  -&1Asius& Epic. et Eleg. -0 - - -
+TLG2609  -1Asopodorus& Iamb. -0 - - -
+TLG0615  -1Aspasius& Phil. -0 - - -
+TLG2060  -1Asterius& Scr. Eccl. -0 - - -
+TLG0325  -&1Astydamas& Trag. -0 - - -
+TLG2035  -&1Athanasius& Theol. -0 - - -
+TLG0141  -&1Athenaeus& Epigr. -0 - - -
+TLG0008  -1Athenaeus& Soph. -0 - - -
+TLG1205  -&1Athenagoras& Apol. -0 - - -
+TLG0422  -&1Athenio& Comic. -0 - - -
+TLG0621  -1Athenodorus& Trag. -0 - - -
+TLG1782  -&1Augeas& Comic. -0 - - -
+TLG0423  -&1Autocrates& Comic. -0 - - -
+TLG0424  -&1Axionicus& Comic. -0 - - -
+TLG0199  -1Bacchylides& Lyr. -0 - - -
+TLG1213  -1Balbilla& Lyr. -0 - - -
+TLG1216  -&1Barnabae Epistula& -0 - - -
+TLG2040  -&1Basilius& Caesariensis Theol. -0 - - -
+TLG2800  -1Basilius& Seleuciensis Scr. Eccl. -0 - - -
+TLG0425  -1Bato& Comic. -0 - - -
+TLG1220  -&1Batrachomyomachia& -0 - - -
+TLG1223  -&1Bias& [2Phil.]2 -0 - - -
+TLG0036  -1Bion& Bucol. -0 - - -
+TLG2153  -&1Bion& Phil. et Math. -0 - - -
+TLG1792  -&1Biottus& Comic. -0 - - -
+TLG0348  -1Biotus& Trag. -0 - - -
+TLG1227  -1Blaesus& Comic. -0 - - -
+TLG0146  -1Boethus& Epigr. -0 - - -
+TLG2230  -1Boi+das& Phil. -0 - - -
+TLG2610  -&1Boiscus& Iamb. -0 - - -
+TLG1306  -&1Bolus& Phil. -0 - - -
+TLG1230  -[2&1Brotinus&]2 Phil. -0 - - -
+TLG2611  -1Butas& Eleg. -0 - - -
+TLG0426  -&1Callias& Comic. -0 - - -
+TLG1783  -1Callicrates& Comic. -0 - - -
+TLG0533  -1Callimachus& Philol. -0 - - -
+TLG2189  -&1Callinicus& Soph. -0 - - -
+TLG0243  -1Callinus& Eleg. -0 - - -
+TLG2218  -1Calliphon& et &1Democedes& Med. et Phil. -0 - - -
+TLG0427  -[2&1Callippus&]2 Comic. -0 - - -
+TLG0534  -1Callisthenes& Hist. -0 - - -
+TLG1845  -1Callistratus& Trag. -0 - - -
+TLG3015  -Joannes &1Cameniates& Hist. -0 - - -
+TLG0428  -1Cantharus& Comic. -0 - - -
+TLG0276  -1Cantus Lugubris& -0 - - -
+TLG0327  -&1Carcinus& Junior Trag. -0 - - -
+TLG0310  -&1Carcinus& Trag. -0 - - -
+TLG0296  -1Carmina Convivialia, PMG& -0 - - -
+TLG0295  -1Carmina Popularia, PMG& -0 - - -
+TLG0385  -1Cassius Dio& Hist. -1 - - -
+TLG0385  |-------  Dio Cassius
+TLG0733  -&1Cassius& Iatrosophista Med. -0 - - -
+TLG0382  -1Castorion& Lyr. -0 - - -
+TLG1247  -2&1Cebes&]2 Phil. -0 - - -
+TLG0429  -&1Cephisodorus& Comic. -0 - - -
+TLG1250  -&1Cercidas& Iamb. -0 - - -
+TLG2286  -1Cercops& Phil. -0 - - -
+TLG1252  -&1Certamen Homeri et Hesiodi& -0 - - -
+TLG0328  -1Chaeremon& Trag. -0 - - -
+TLG1795  -&1Chaerion& Comic. -0 - - -
+TLG1256  -&1Chares& Gnom. -0 - - -
+TLG0430  -1Chariclides& Comic. -0 - - -
+TLG0554  -1Chariton& Scr. Erot. -0 - - -
+TLG1259  -[2&1Charondas& Nomographus]2 [2Phil.]2 -0 - - -
+TLG0431  -&1Chionides& Comic. -0 - - -
+TLG0302  -1Choerilus& Trag. -0 - - -
+TLG2119  -&1Christodorus& Epic. -0 - - -
+TLG1264  -1Chrysippus& Phil. -0 - - -
+TLG0375  -1Cinesias& Lyr. -0 - - -
+TLG0332  -&1Cleaenetus& Trag. -0 - - -
+TLG0432  -1Clearchus& Comic. -0 - - -
+TLG0555  -1Clemens Alexandrinus& Theol. -0 - - -
+TLG1271  -&1Clemens Romanus& Theol. et &1Clementina& -0 - - -
+TLG0244  -&1Cleobulina& Scriptor Aenigmatum -0 - - -
+TLG1274  -1Cleobulus& Lyr. et Epigr. -0 - - -
+TLG1272  -1Cleomedes& Astron. -0 - - -
+TLG0900  -&1Cleomenes& Lyr. -0 - - -
+TLG1273  -1Cleon& Eleg. -0 - - -
+TLG0361  -&1Cleonides& Mus. -0 - - -
+TLG1087  -1Cleophon& Trag. -0 - - -
+TLG1275  -1Cleostratus& Poet. Phil. -0 - - -
+TLG2305  -&1Clidemus& Phil. -0 - - -
+TLG1277  -2&1Clinias&]2 Phil. -0 - - -
+TLG0408  -&1Comica Adespota, CAF& -0 - - -
+TLG0662  -1Comica Adespota, CGFPR& -0 - - -
+TLG0602  -1Comica Adespota, FCG& -0 - - -
+TLG0659  -1Comica Adespota&, Suppl. Com. -0 - - -
+TLG5000  -1Concilia Oecumenica, ACO& -0 - - -
+TLG3023  -1Constantinus VII Porphyrogenitus& Imperator -0 - - -
+TLG0271  -1Conventus Avium& -0 - - -
+TLG0294  -&1Corinna& Lyr. -0 - - -
+TLG0654  -1Cornutus& Phil. -0 - - -
+TLG0433  -1Crates& Comic. -0 - - -
+TLG0336  -&1Crates& Poet. Phil. -0 - - -
+TLG0657  -1Crateuas& Med. -0 - - -
+TLG0434  -&1Cratinus& Comic. -0 - - -
+TLG0435  -&1Cratinus& Junior Comic. -0 - - -
+TLG2291  -1Cratylus& Phil. -0 - - -
+TLG0319  -1Critias& Phil., Trag. et Eleg. -0 - - -
+TLG0436  -&1Crito& Comic. -0 - - -
+TLG0437  -1Crobylus& Comic. -0 - - -
+TLG0845  -&1Ctesias& Hist. et Med. -0 - - -
+TLG0368  -&1Cydias& Lyr. -0 - - -
+TLG4066  -&1Damascius& Phil. -0 - - -
+TLG2232  -&1Damon& Mus. -0 - - -
+TLG2244  -1Damon& et &1Phintias& Phil. -0 - - -
+TLG0438  -1Damoxenus& Comic. -0 - - -
+TLG4021  -1David& Phil. -0 - - -
+TLG0272  -&1De Arboribus Avibusque Fabulae& -0 - - -
+TLG0535  -1Demades& Orat. et Rhet. -0 - - -
+TLG1298  -1Demetrii Phalerei Epistula& -0 - - -
+TLG0439  -1Demetrius& Comic. -0 - - -
+TLG0440  -1Demetrius& Junior Comic. -0 - - -
+TLG1849  -&1Demetrius& Trag. -0 - - -
+TLG1304  -&1Democritus& Phil. -0 - - -
+TLG0245  -1Demodocus& Eleg. -0 - - -
+TLG0349  -&1Demonax& [2Trag.]2 -0 - - -
+TLG0441  -&1Demonicus& Comic. -0 - - -
+TLG0014  -1Demosthenes& Orat. -0 - - -
+TLG0442  -&1Dexicrates& Comic. -0 - - -
+TLG2036  -&1Dexippus& Phil. -0 - - -
+TLG1309  -1Dialexeis&, $*DISSOI\ LO/GOI& -0 - - -
+TLG0322  -1Dicaeogenes& Trag. -0 - - -
+TLG1310  -&1Dictys& Cretensis Hist. -0 - - -
+TLG1311  -1Didache XII Apostolorum& -0 - - -
+TLG2102  -&1Didymus Caecus& Scr. Eccl. -1 - - -
+TLG2102  |-------  Didymus the Blind
+TLG0029  -&1Dinarchus& Orat. -0 - - -
+TLG1315  -&1Dinolochus& Comic. -0 - - -
+TLG0612  -&1Dio Chrysostomus& Soph. -0 - - -
+TLG0443  -1Diocles& Comic. -0 - - -
+TLG0444  -1Diodorus& Comic. -0 - - -
+TLG2652  -&1Diodorus& Eleg. -0 - - -
+TLG0165  -1Diodorus& Rhet. -0 - - -
+TLG0060  -1Diodorus Siculus& Hist. -0 - - -
+TLG1319  -1Diogenes& Apolloniates Phil. -0 - - -
+TLG0004  -&1Diogenes Laertius& Biogr. -0 - - -
+TLG2314  -1Diogenes& Smyrnaeus Phil. -0 - - -
+TLG0334  -1Diogenes& Phil. et Trag. -0 - - -
+TLG0320  -&1Diogenes& Trag. -0 - - -
+TLG0445  -1Dionysius& Comic. -0 - - -
+TLG0246  -1Dionysius& Eleg. -0 - - -
+TLG0350  -[2&1Dionysius&]2 Trag. vel Comic. -0 - - -
+TLG0330  -1Dionysius I& [2Trag.]2 -0 - - -
+TLG0247  -&1Dionysius II& [2Eleg.]2 -0 - - -
+TLG0081  -1Dionysius Halicarnassensis& Rhet. et Hist. -0 - - -
+TLG1881  -&1Dionysius Scytobrachion& Gramm. -0 - - -
+TLG0063  -1Dionysius Thrax& Gramm. -0 - - -
+TLG0395  -1Diophantus& Comic. -0 - - -
+TLG0656  -&1Dioscorides Pedanius& Med. -0 - - -
+TLG1118  -Pseudo-&1Dioscorides& Med. -0 - - -
+TLG0174  -&1Diotimus& Epic. -0 - - -
+TLG2340  -1Diotimus& Phil. -0 - - -
+TLG0446  -1Dioxippus& Comic. -0 - - -
+TLG0447  -1Diphilus& Comic. -0 - - -
+TLG0248  -&1Diphilus& Epic. et Iamb. -0 - - -
+TLG0208  -&1Dosiadas& Lyr. -0 - - -
+TLG0448  -&1Dromo& Comic. -0 - - -
+TLG1339  -1Duris& Hist. -0 - - -
+TLG2242  -&1Echecrates& Phil. -0 - - -
+TLG0249  -1Echembrotus& Lyr. et Eleg. -0 - - -
+TLG0449  -&1Ecphantides& Comic. -0 - - -
+TLG1341  -2&1Ecphantus&]2 Phil. -0 - - -
+TLG0231  -&1Elegiaca Adespota, CA& -0 - - -
+TLG0234  -&1Elegiaca Adespota, IEG& -0 - - -
+TLG4020  -1Elias& Phil. -0 - - -
+TLG1342  -&1Empedocles& Poet. Phil. -0 - - -
+TLG0450  -1Ephippus& Comic. -0 - - -
+TLG0536  -&1Ephorus& Hist. -0 - - -
+TLG0521  -&1Epicharmus& Comic. et &1Pseudepicharmea& -0 - - -
+TLG0451  -&1Epicrates& Comic. -0 - - -
+TLG0557  -1Epictetus& Phil. -0 - - -
+TLG0537  -&1Epicurus& Phil. -0 - - -
+TLG0452  -1Epigenes& Comic. -0 - - -
+TLG0453  -&1Epilycus& Comic. -0 - - -
+TLG1347  -&1Epimenides& Phil. -0 - - -
+TLG0454  -1Epinicus& Comic. -0 - - -
+TLG2021  -&1Epiphanius& Scr. Eccl. -0 - - -
+TLG1350  -&1Epistula ad Diognetum& -0 - - -
+TLG1352  -&1Epistula Ecclesiarum apud Lugdunum et Viennam& -0 - - -
+TLG1570  -&1Epitaphium Pectorii& -0 - - -
+TLG1355  -&1Erinna& Lyr. -0 - - -
+TLG0455  -&1Eriphus& Comic. -0 - - -
+TLG0716  -1Erotianus& Gramm. et Med. -0 - - -
+TLG0456  -1Euangelus& Comic. -0 - - -
+TLG1096  -1Euaretus& Trag. -0 - - -
+TLG0457  -1Eubulides& Comic. -0 - - -
+TLG0458  -1Eubulus& Comic. -0 - - -
+TLG0250  -1Euclides& Comic. vel Iamb. -0 - - -
+TLG1799  -&1Euclides& Geom. -0 - - -
+TLG1358  -1Eudoxus& Astron. -0 - - -
+TLG0399  -&1Eudoxus& Comic. -0 - - -
+TLG0251  -1Euenus& Eleg. -0 - - -
+TLG1361  -1Eumedes& Comic. -0 - - -
+TLG0298  -1Eumelus& Epic. -0 - - -
+TLG2050  -&1Eunapius& Hist. et Soph. -0 - - -
+TLG0459  -&1Eunicus& Comic. -0 - - -
+TLG0396  -1Euphanes& Comic. -0 - - -
+TLG0221  -&1Euphorion& Epic. -0 - - -
+TLG0460  -&1Euphro& Comic. -0 - - -
+TLG0210  -&1Euphronius& Lyr. -0 - - -
+TLG0461  -&1Eupolis& Comic. -0 - - -
+TLG0006  -1Euripides& Trag. -0 - - -
+TLG1840  -&1Euripides II& Trag. -0 - - -
+TLG1362  -2&1Eurytus&]2 Phil. -0 - - -
+TLG2018  -&1Eusebius& Scr. Eccl. et Theol. -0 - - -
+TLG4083  -&1Eustathius& Philol. et Scr. Eccl. -0 - - -
+TLG4031  -1Eustratius& Phil. -0 - - -
+TLG0752  -1Eutecnius& Soph. -0 - - -
+TLG0462  -&1Euthycles& Comic. -0 - - -
+TLG2236  -1Eutropius& Hist. -0 - - -
+TLG1366  -&1Evangelium Bartholomaei& -0 - - -
+TLG0343  -&1Ezechiel& Trag. -0 - - -
+TLG2646  -1Fragmenta Adespota, SH& -0 - - -
+TLG0186  -Marcus Cornelius &1Fronto& Rhet. -0 - - -
+TLG0057  -&1Galenus& Med. -0 - - -
+TLG0530  -Pseudo-&1Galenus& Med. -0 - - -
+TLG3043  -&1Georgius& Monachus Chronogr. -0 - - -
+TLG3051  -&1Georgius Monachus Continuatus& -0 - - -
+TLG2971  -&1Georgius Peccator& Poeta -0 - - -
+TLG0593  -&1Gorgias& Rhet. et Soph. -0 - - -
+TLG2022  -1Gregorius Nazianzenus& Theol. -0 - - -
+TLG2017  -1Gregorius Nyssenus& Theol. -0 - - -
+TLG2118  -&1Gryllus& -0 - - -
+TLG0720  -&1Harmodius& Trag. -0 - - -
+TLG1389  -&1Harpocration& Gramm. -0 - - -
+TLG1390  -&1Hecataeus& Abderita Hist. -0 - - -
+TLG0538  -1Hecataeus& Milesius Hist. -0 - - -
+TLG0198  -1Hedylus& Epigr. -0 - - -
+TLG1391  -1Hegemon& Epic. -0 - - -
+TLG0463  -&1Hegemon& Parodius -0 - - -
+TLG0464  -1Hegesippus& Comic. -0 - - -
+TLG0658  -&1Heliodorus& Scr. Erot. -0 - - -
+TLG0750  -&1Heliodorus& Trag. -0 - - -
+TLG0539  -1Hellanicus& Hist. -0 - - -
+TLG0558  -1Hellenica& -0 - - -
+TLG0465  -&1Heniochus& Comic. -0 - - -
+TLG0466  -1Heraclides& Comic. -0 - - -
+TLG1844  -&1Heraclides& Trag. -0 - - -
+TLG0283  -1Heraclides Ponticus& Junior Gramm. -0 - - -
+TLG1784  -[2&1Heraclitus&]2 Comic. -0 - - -
+TLG0626  -&1Heraclitus& Phil. -0 - - -
+TLG1416  -1Herennius Philo& Hist. et Gramm. -0 - - -
+TLG1419  -&1Hermas& Scr. Eccl. -1 - - -
+TLG1419  |-------  Pastor Hermae
+TLG0213  -&1Hermesianax& Eleg. -0 - - -
+TLG1420  -&1Hermias& Iamb. -0 - - -
+TLG0252  -&1Hermippus& Comic. -0 - - -
+TLG0207  -1Hermocles& Lyr. -0 - - -
+TLG0592  -1Hermogenes& Tarsensis Rhet. -0 - - -
+TLG0240  -1Hermolochus& Lyr. -0 - - -
+TLG0650  -1Herodas& Mimogr. -0 - - -
+TLG0087  -&1Herodianus& et Pseudo-&1Herodianus& Gramm. et Rhet. -0 - - -
+TLG0015  -1Herodianus& Hist. -0 - - -
+TLG0016  -1Herodotus& Hist. -0 - - -
+TLG0559  -&1Heron& Mech. -0 - - -
+TLG0020  -&1Hesiodus& Epic. -0 - - -
+TLG4085  -1Hesychius& Lexicogr. -0 - - -
+TLG2240  -&1Hicetas& Phil. -0 - - -
+TLG0745  -&1Hierophilus& Soph. et Phil. -0 - - -
+TLG2051  -1Himerius& Soph. -0 - - -
+TLG0468  -1Hipparchus& Comic. -0 - - -
+TLG2260  -&1Hippasus& Phil. -0 - - -
+TLG1434  -1Hippias& Soph. -0 - - -
+TLG0738  -&1Hippiatrica& -0 - - -
+TLG2235  -&1Hippocrates& Math. -0 - - -
+TLG0627  -&1Hippocrates& Med. et &1Corpus Hippocraticum& -0 - - -
+TLG0751  -Pseudo-&1Hippocrates& Med. -0 - - -
+TLG1436  -[2&1Hippodamus&]2 Phil. -0 - - -
+TLG2115  -1Hippolytus& Scr. Eccl. -0 - - -
+TLG1437  -&1Hippon& Phil. -0 - - -
+TLG0233  -1Hipponax& Iamb. -0 - - -
+TLG0351  -&1Hippothoon&] Trag. -0 - - -
+TLG1386  -1Historia Alexandri Magni& -0 - - -
+TLG2744  -1Historia Monachorum in Aegypto& -0 - - -
+TLG0012  -1Homerus& Epic. -1 - - -
+TLG0012  |-------  Homer
+TLG0253  -[&1Homerus&] [2Epic.]2 -0 - - -
+TLG2052  -&1Horapollo& Gramm. -0 - - -
+TLG0013  -1Hymni Homerici& -1 - - -
+TLG0013  |-------  Homeric Hymns
+TLG0030  -1Hyperides& Orat. -0 - - -
+TLG0717  -&1Hypsicles& Math. et Astron. -0 - - -
+TLG1821  -1Iambica Adespota, ALG& -0 - - -
+TLG0235  -&1Iambica Adespota, IEG& -0 - - -
+TLG2023  -&1Iamblichus& Phil. -0 - - -
+TLG1441  -1Iamblichus& Scr. Erot. -0 - - -
+TLG0293  -&1Ibycus& Lyr. -0 - - -
+TLG2226  -&1Iccus& Phil. -0 - - -
+TLG2304  -&1Idaeus& Phil. -0 - - -
+TLG1443  -1Ignatius& Scr. Eccl. -0 - - -
+TLG1446  -&1Ion& Eleg. -0 - - -
+TLG0308  -&1Ion& Poeta et Phil. -0 - - -
+TLG0311  -1Iophon& Trag. -0 - - -
+TLG1447  -1Irenaeus& Theol. -0 - - -
+TLG0017  -&1Isaeus& Orat. -0 - - -
+TLG0359  -1Isidorus& Scriptor Hymnorum -0 - - -
+TLG0352  -1Isidorus& Trag. -0 - - -
+TLG0010  -1Isocrates& Orat. -0 - - -
+TLG0201  -&1Isyllus& Lyr. -0 - - -
+TLG0727  -1Joannes& Med. -0 - - -
+TLG2062  -1Joannes Chrysostomus& Scr. Eccl. -1 - - -
+TLG2062  |-------  John Chrysostom
+TLG2934  -&1Joannes Damascenus& Theol. et Scr. Eccl. -1 - - -
+TLG2934  |-------  John of Damascus
+TLG3173  -1Joannes& Hierosolymitanus Scr. Eccl. -0 - - -
+TLG2871  -&1Joannes Malalas& Chronogr. -0 - - -
+TLG4015  -&1Joannes Philoponus& Phil. -0 - - -
+TLG1451  -1Josephus et Aseneth& -0 - - -
+TLG0526  -&1Josephus& Hist. -0 - - -
+TLG2003  -1Julianus& Imperator Phil. -1 - - -
+TLG2003  |-------  Julian the Apostate
+TLG0737  -1Julianus& Scriptor Legis de Medicis -0 - - -
+TLG0740  -1Jusjurandum Medicum& -0 - - -
+TLG0645  -&1Justinus Martyr& Apol. -0 - - -
+TLG0646  -Pseudo-&1Justinus Martyr& -0 - - -
+TLG0370  -1Lamprocles& Lyr. -0 - - -
+TLG0918  -&1Lamynthius& Lyr. -0 - - -
+TLG0469  -&1Laon& Comic. -0 - - -
+TLG0366  -&1Lasus& Lyr. -0 - - -
+TLG0723  -1Leo& Phil. -0 - - -
+TLG1461  -&1Leucippus& Phil. -0 - - -
+TLG0470  -&1Leuco& Comic. -0 - - -
+TLG2200  -1Libanius& Rhet. et Soph. -0 - - -
+TLG0374  -&1Licymnius& Lyr. -0 - - -
+TLG0203  -1Limenius& Lyr. -0 - - -
+TLG2178  -&1Longinus& Phil. et Rhet. -0 - - -
+TLG0560  -[&1Longinus&] Rhet. -1 - - -
+TLG0560  |-------  Pseudo-Longinus
+TLG0561  -1Longus& Scr. Erot. -0 - - -
+TLG0734  -[2&1Lucas& Apostolus]2 Med. -0 - - -
+TLG0062  -1Lucianus& Soph. -0 - - -
+TLG0061  -Pseudo-&1Lucianus& Soph. -0 - - -
+TLG2246  -&1Lycon& Phil. -0 - - -
+TLG2444  -&1Lycophron& Soph. -0 - - -
+TLG0341  -&1Lycophron& Trag. -0 - - -
+TLG0381  -&1Lycophronides& Lyr. -0 - - -
+TLG0034  -1Lycurgus& Orat. -0 - - -
+TLG2580  -Joannes Laurentius &1Lydus& Hist. -0 - - -
+TLG0471  -1Lynceus& Comic. -0 - - -
+TLG0230  -1Lyrica Adespota, CA& -0 - - -
+TLG0297  -&1Lyrica Adespota, PMG& -0 - - -
+TLG1471  -1Lyrica Adespota, SLG& -0 - - -
+TLG0540  -1Lysias& Orat. -0 - - -
+TLG0472  -1Lysippus& Comic. -0 - - -
+TLG0633  -[2&1Lysis&]2 Phil. -0 - - -
+TLG2109  -Pseudo-&1Macarius& Scr. Eccl. -0 - - -
+TLG0202  -1Macedonius& Lyr. -0 - - -
+TLG0473  -&1Machon& Comic. -0 - - -
+TLG0474  -&1Magnes& Comic. -0 - - -
+TLG1476  -&1Mamercus& Eleg. -0 - - -
+TLG0667  -1Marcellinus I& Med. -0 - - -
+TLG2041  -1Marcellus& Theol. -0 - - -
+TLG0562  -1Marcus Aurelius Antoninus& Imperator Phil. -0 - - -
+TLG2011  -&1Martyrium Agapae, Irenae, Chionae et Sodalium& -0 - - -
+TLG0390  -&1Martyrium Carpi, Papyli et Agathonicae& -0 - - -
+TLG2008  -1Martyrium Cononis& -0 - - -
+TLG2010  -&1Martyrium Dasii& -0 - - -
+TLG2009  -&1Martyrium Marini& -0 - - -
+TLG2005  -1Martyrium Pionii& -0 - - -
+TLG1484  -1Martyrium Polycarpi& -0 - - -
+TLG2007  -&1Martyrium Potamiaenae et Basilidis& -0 - - -
+TLG1485  -1Martyrium Ptolemaei et Lucii& -0 - - -
+TLG2025  -1Maximus& Rhet. -0 - - -
+TLG0373  -&1Melanippides& Lyr. -0 - - -
+TLG0344  -&1Melanthius& Trag. -0 - - -
+TLG0254  -1Melanthius& Trag. et Eleg. -0 - - -
+TLG0730  -&1Meletius& Med. -0 - - -
+TLG1848  -&1Meletus& Junior Trag. -0 - - -
+TLG1493  -1Melinno& Lyr. -0 - - -
+TLG1494  -1Melissus& Phil. -0 - - -
+TLG1495  -1Melito& Apol. -0 - - -
+TLG0825  -1Melito& Trag. -0 - - -
+TLG0541  -1Menander& Comic. -0 - - -
+TLG1791  -&1Menandri et Philistionis Sententiae& -0 - - -
+TLG0523  -&1Menecrates& Comic. -0 - - -
+TLG2228  -&1Menestor& Phil. -0 - - -
+TLG1787  -&1Menippus&] Comic. -0 - - -
+TLG0268  -&1Mesomedes& Lyr. -0 - - -
+TLG0475  -1Metagenes& Comic. -0 - - -
+TLG1811  -1Metrodorus& Major Phil. -0 - - -
+TLG1508  -1Metrodorus& Phil. -0 - - -
+TLG3079  -1Michael Attaliates& Hist. -0 - - -
+TLG4034  -1Michael& Phil. -0 - - -
+TLG0255  -&1Mimnermus& Eleg. -0 - - -
+TLG1511  -&1Mimnermus& Trag. -0 - - -
+TLG0476  -&1Mnesimachus& Comic. -0 - - -
+TLG0220  -1Moero& Epic. -0 - - -
+TLG0277  -&1Monodia& -0 - - -
+TLG0314  -&1Morsimus& Trag. -0 - - -
+TLG0339  -1Moschion& Trag. -0 - - -
+TLG0035  -1Moschus& Bucol. -0 - - -
+TLG2691  -&1Musaeus&] Phil. -0 - - -
+TLG0477  -&1Myrtilus& Comic. -0 - - -
+TLG0478  -&1Nausicrates& Comic. -0 - - -
+TLG2334  -1Nausiphanes& Phil. -0 - - -
+TLG0269  -&1Nautarum Cantiunculae& -0 - - -
+TLG0743  -&1Nemesius& Emesenus Theol. -0 - - -
+TLG0307  -1Neophron& Trag. -0 - - -
+TLG2456  -1Nessas& Phil. -0 - - -
+TLG0218  -1Nicaenetus& Epic. -0 - - -
+TLG0022  -1Nicander& Epic. -0 - - -
+TLG4145  -1Nicephorus Gregoras& Polyhist. -0 - - -
+TLG1533  -&1Nicias& Epigr. -0 - - -
+TLG0479  -&1Nico& Comic. -0 - - -
+TLG0480  -&1Nicochares& Comic. -0 - - -
+TLG0481  -&1Nicolaus& Comic. -0 - - -
+TLG0482  -&1Nicomachus& Comic. -0 - - -
+TLG0342  -&1Nicomachus& Alexandrinus Trag. -0 - - -
+TLG1843  -&1Nicomachus& Atheniensis  Trag. -0 - - -
+TLG0483  -&1Nicophon& Comic. -0 - - -
+TLG0484  -&1Nicostratus& Comic. -0 - - -
+TLG2045  -1Nonnus& Epic. -0 - - -
+TLG0031  -1Novum Testamentum& -1 - - -
+TLG0031  |-------  New Testament
+TLG1545  -&1Ocellus& Phil. -0 - - -
+TLG0971  -&1Oeniades& Lyr. -0 - - -
+TLG2234  -&1Oenopides& Phil. -0 - - -
+TLG4019  -&1Olympiodorus& Phil. -0 - - -
+TLG0485  -1Ophelio& Comic. -0 - - -
+TLG0023  -1Oppianus& Anazarbensis Epic. -0 - - -
+TLG0024  -&1Oppianus& Apamensis Epic. -0 - - -
+TLG1550  -1Oracula Chaldaica& -0 - - -
+TLG1551  -&1Oracula Sibyllina& -0 - - -
+TLG0722  -&1Oribasius& Med. -0 - - -
+TLG2042  -1Origenes& Theol. -0 - - -
+TLG0579  -&1Orphica& -0 - - -
+TLG1203  -&1Paeanes, CA& -0 - - -
+TLG0726  -&1Palladius& Med. -0 - - -
+TLG2111  -1Palladius& Scr. Eccl. -0 - - -
+TLG1399  -1Pamphilus& Trag. -0 - - -
+TLG0256  -&1Panarces& Scriptor Aenigmatum -0 - - -
+TLG1555  -1Pancrates& Epic. -0 - - -
+TLG1556  -&1Pancrates& Epigr. -0 - - -
+TLG1785  -1Paramonus& Comic. -0 - - -
+TLG2225  -1Parmeniscus& Phil. -0 - - -
+TLG1562  -&1Parmenides& Poet. Phil. -0 - - -
+TLG1566  -1Parmeno& Iamb. -0 - - -
+TLG2227  -&1Paron& Phil. -0 - - -
+TLG0655  -&1Parthenius& Myth. -0 - - -
+TLG0324  -1Patrocles& Trag. -0 - - -
+TLG0715  -&1Paulus& Aegineta Med. -0 - - -
+TLG0525  -1Pausanias& Perieg. -0 - - -
+TLG0275  -&1Peirazomene& -0 - - -
+TLG2247  -&1Petron& Phil. -0 - - -
+TLG1577  -1Phaedimus& Epigr. -0 - - -
+TLG0214  -1Phanocles& Eleg. -0 - - -
+TLG0486  -&1Pherecrates& Comic. -0 - - -
+TLG0630  -1Pherecydes& Phil. et Myth. -0 - - -
+TLG2966  -&1Phileas& Scr. Eccl. -0 - - -
+TLG0487  -1Philemon& Comic. -0 - - -
+TLG0488  -&1Philemon& Junior Comic. -0 - - -
+TLG0489  -1Philetaerus& Comic. -0 - - -
+TLG0212  -1Philetas& Eleg. et Gramm. -0 - - -
+TLG1587  -1Philiades& Eleg. -0 - - -
+TLG1588  -&1Philicus& Lyr. -0 - - -
+TLG0490  -&1Philippides& Comic. -0 - - -
+TLG1781  -1Philippus& Comic. -0 - - -
+TLG0491  -1Philiscus& Comic. -0 - - -
+TLG0335  -1Philiscus& Trag. -0 - - -
+TLG0018  -&1Philo Judaeus& Phil. -0 - - -
+TLG2595  -&1Philo& Paradox. -0 - - -
+TLG0583  -1Philochorus& Hist. -0 - - -
+TLG1794  -&1Philocles& Comic. -0 - - -
+TLG0312  -1Philocles& Trag. -0 - - -
+TLG0205  -&1Philodamus& Lyr. -0 - - -
+TLG1596  -&1Philolaus& Phil. -0 - - -
+TLG0492  -&1Philonides& Comic. -0 - - -
+TLG0493  -&1Philostephanus& Comic. -0 - - -
+TLG0652  -&1Philostratus& Junior Soph. -0 - - -
+TLG1600  -&1Philostratus& Major Soph. -0 - - -
+TLG0638  -Flavius &1Philostratus& Soph. -0 - - -
+TLG0379  -1Philoxenus& Cytherius Lyr. -0 - - -
+TLG0380  -&1Philoxenus& Leucadius Lyr. -0 - - -
+TLG0671  -&1Philumenus& Med. -0 - - -
+TLG0494  -&1Philyllius& Comic. -0 - - -
+TLG0585  -&1Phlegon& Paradox. -0 - - -
+TLG1604  -1Phocylides& Eleg. et Gnom. -0 - - -
+TLG0495  -&1Phoenicides& Comic. -0 - - -
+TLG1788  -1Phormis& Comic. -0 - - -
+TLG4040  -1Photius& Theol., Scr. Eccl. et Lexicogr. -0 - - -
+TLG0496  -&1Phrynichus& Comic. -0 - - -
+TLG0303  -&1Phrynichus& Trag. -0 - - -
+TLG0876  -1Phrynichus II& Trag. -0 - - -
+TLG1609  -&1Phylarchus& Hist. -0 - - -
+TLG0258  -1Pigres& Eleg. -0 - - -
+TLG0033  -1Pindarus& Lyr. -0 - - -
+TLG0288  -&1Pisander& Epic. -0 - - -
+TLG0631  -1Pittacus& [2Lyr.]2 -0 - - -
+TLG0497  -&1Plato& Comic. -0 - - -
+TLG0059  -1Plato& Phil. -0 - - -
+TLG2000  -&1Plotinus& Phil. -0 - - -
+TLG0007  -1Plutarchus& Biogr. et Phil. -0 - - -
+TLG0094  -Pseudo-&1Plutarchus& -0 - - -
+TLG0625  -&1Polemaeus& Trag. -0 - - -
+TLG0498  -&1Poliochus& Comic. -0 - - -
+TLG0616  -1Polyaenus& Rhet. -0 - - -
+TLG0543  -&1Polybius& Hist. -0 - - -
+TLG0605  -1Polybius& Rhet. -0 - - -
+TLG1622  -1Polycarpus& Scr. Eccl. -0 - - -
+TLG1625  -&1Polyclitus& Phil. -0 - - -
+TLG0331  -2&1Polyidus&]2 Trag. -0 - - -
+TLG1839  -1Polyphrasmon& Trag. -0 - - -
+TLG0499  -1Polyzelus& Comic. -0 - - -
+TLG0346  -1Pompeius Macer& [2Trag.]2 -0 - - -
+TLG2034  -1Porphyrius& Tyrius Phil. -0 - - -
+TLG0500  -&1Posidippus& Comic. -0 - - -
+TLG1632  -&1Posidippus& Epigr. -0 - - -
+TLG1052  -&1Posidonius& Phil. -0 - - -
+TLG0663  -1Praecepta Salubria& -0 - - -
+TLG1833  -1Pratinas& Trag. -0 - - -
+TLG0372  -1Praxilla& Lyr. -0 - - -
+TLG4014  -&1Priscianus& Phil. -0 - - -
+TLG4036  -1Proclus& Phil. -0 - - -
+TLG4029  -&1Procopius& Hist. -0 - - -
+TLG1634  -&1Prodicus& Soph. -0 - - -
+TLG0397  -1Pronomus& Lyr. -0 - - -
+TLG1635  -&1Protagoras& Soph. -0 - - -
+TLG1637  -1Protevangelium Jacobi& -0 - - -
+TLG2702  -Michael &1Psellus& Polyhist. -0 - - -
+TLG0604  -&1Ptolemaeus IV Philopator& Trag. -0 - - -
+TLG0632  -2&1Pythagoras&]2 Phil. -0 - - -
+TLG2239  -1Pythagoristae& Phil. -0 - - -
+TLG0337  -&1Python& Trag. -0 - - -
+TLG2046  -1Quintus& Smyrnaeus Epic. -0 - - -
+TLG0598  -&1Rhetorica Anonyma& -0 - - -
+TLG0219  -&1Rhianus& Epic. -0 - - -
+TLG1654  -&1Rhinthon& Comic. -0 - - -
+TLG2881  -&1Romanus Melodus& Hymnographus -0 - - -
+TLG0564  -1Rufus& Ephesius Med. -0 - - -
+TLG0606  -&1Rufus& Soph. -0 - - -
+TLG2049  -&1Sallustius& Phil. -0 - - -
+TLG0501  -1Sannyrion& Comic. -0 - - -
+TLG0009  -1Sappho& Lyr. -0 - - -
+TLG1815  -&1Sappho& et &1Alcaeus& Lyr. -0 - - -
+TLG0387  -&1Sapphus& vel &1Alcaei Fragmenta& -0 - - -
+TLG5008  -&1Scholia in Aelium Aristidem& -0 - - -
+TLG5009  -&1Scholia in Aeschinem& -0 - - -
+TLG5010  -1Scholia in Aeschylum& -0 - - -
+TLG5012  -1Scholia in Apollonium Rhodium& -0 - - -
+TLG5013  -&1Scholia in Aratum& -0 - - -
+TLG5014  -&1Scholia in Aristophanem& -0 - - -
+TLG5015  -&1Scholia in Aristotelem& -0 - - -
+TLG5017  -1Scholia in Demosthenem& -0 - - -
+TLG5018  -1Scholia in Dionysium Byzantium& -0 - - -
+TLG5019  -1Scholia in Dionysium Periegetam& -0 - - -
+TLG5021  -&1Scholia in Diophantum& -0 - - -
+TLG5022  -&1Scholia in Euclidem& -0 - - -
+TLG5023  -&1Scholia in Euripidem& -0 - - -
+TLG5025  -1Scholia in Hesiodum& -0 - - -
+TLG5026  -&1Scholia in Homerum& -0 - - -
+TLG5028  -1Scholia in Isocratem& -0 - - -
+TLG5029  -1Scholia in Lucianum& -0 - - -
+TLG5031  -&1Scholia in Nicandrum& -0 - - -
+TLG5032  -1Scholia in Oppianum& -0 - - -
+TLG5033  -&1Scholia in Pausaniam& -0 - - -
+TLG5034  -1Scholia in Pindarum& -0 - - -
+TLG5035  -&1Scholia in Platonem& -0 - - -
+TLG5037  -&1Scholia in Sophoclem& -0 - - -
+TLG5038  -1Scholia in Theocritum& -0 - - -
+TLG5039  -&1Scholia in Thucydidem& -0 - - -
+TLG5040  -&1Scholia in Xenophontem& -0 - - -
+TLG1662  -1Sciras& Comic. -0 - - -
+TLG0353  -[2&1Sclerias&]2 Trag. -0 - - -
+TLG0273  -1Scolia Alphabetica& -0 - - -
+TLG0065  -1Scylax& Perieg. -0 - - -
+TLG0259  -1Scythinus& Poet. Phil. -0 - - -
+TLG0209  -&1Seleucus& Lyr. -0 - - -
+TLG0260  -&1Semonides& Eleg. et Iamb. -0 - - -
+TLG1667  -2&1Septem Sapientes&]2 Phil. -0 - - -
+TLG0527  -1Septuaginta& -0 - - -
+TLG0347  -&1Serapion& Trag. -0 - - -
+TLG4139  -1Severianus& Scr. Eccl. -0 - - -
+TLG0748  -&1Severus& Iatrosophista Med. -0 - - -
+TLG0544  -1Sextus Empiricus& Phil. -0 - - -
+TLG0603  -1Silenus& Trag. -0 - - -
+TLG0211  -&1Simias& Gramm. -0 - - -
+TLG0261  -&1Simonides& Lyr. -0 - - -
+TLG4013  -1Simplicius& Phil. -0 - - -
+TLG2245  -1Simus& Phil. -0 - - -
+TLG0398  -&1Simylus& Comic. -0 - - -
+TLG1675  -1Simylus& Eleg. -0 - - -
+TLG1676  -&1Simylus& Iamb. -0 - - -
+TLG0262  -&1Socrates& Phil. -0 - - -
+TLG2057  -1Socrates& Scholasticus Hist. -0 - - -
+TLG0637  -&1Socraticorum Epistulae& -0 - - -
+TLG0636  -1Socratis Epistulae& -0 - - -
+TLG1680  -2&1Sodamus&]2 Eleg. -0 - - -
+TLG1786  -&1Sogenes& Comic. -0 - - -
+TLG0263  -1Solon& Nomographus et Poeta -0 - - -
+TLG1682  -1Sopater& Comic. -0 - - -
+TLG2031  -1Sopater& Rhet. -0 - - -
+TLG0502  -&1Sophilus& Comic. -0 - - -
+TLG0326  -&1Sophocles& Junior Trag. -0 - - -
+TLG0011  -1Sophocles& Trag. -0 - - -
+TLG4030  -&1Sophonias& Phil. -0 - - -
+TLG0524  -&1Sophron& Mimogr. -0 - - -
+TLG0565  -&1Soranus& Ephesius Med. -0 - - -
+TLG0503  -&1Sosicrates& Comic. -0 - - -
+TLG0504  -&1Sosipater& Comic. -0 - - -
+TLG0338  -1Sosiphanes& Trag. -0 - - -
+TLG0340  -1Sositheus& Trag. -0 - - -
+TLG1688  -&1Sostratus& Gramm. -0 - - -
+TLG1690  -1Sotadea& -0 - - -
+TLG0505  -&1Sotades& Comic. -0 - - -
+TLG1691  -1Sotades& Iamb. -0 - - -
+TLG2048  -&1Sozomenus& Scr. Eccl. -0 - - -
+TLG1692  -1Speusippus& Phil. -0 - - -
+TLG1846  -1Spintharus& Trag. -0 - - -
+TLG0506  -1Stephanus& Comic. -0 - - -
+TLG0736  -1Stephanus& Alexandrinus Med. -0 - - -
+TLG9019  -&1Stephanus& Alexandrinus Phil. -0 - - -
+TLG0724  -1Stephanus& Atheniensis Med. et Phil. -0 - - -
+TLG4028  -&1Stephanus& Byzantius Gramm. -0 - - -
+TLG9020  -1Stephanus& fort. Constantinopolitanus Gramm. -0 - - -
+TLG0292  -&1Stesichorus& Lyr. -0 - - -
+TLG0981  -1Stesichorus II& Lyr. -0 - - -
+TLG0315  -&1Sthenelus& Trag. -0 - - -
+TLG2037  -&1Stobaeus& Anthologus -0 - - -
+TLG0099  -&1Strabo& Geogr. -0 - - -
+TLG0507  -&1Straton& Comic. -0 - - -
+TLG0508  -1Strattis& Comic. -0 - - -
+TLG9010  -&1Suda& -1 - - -
+TLG9010  |-------  Suidas
+TLG1760  -&1Suetonius& Hist. et Gramm. -0 - - -
+TLG0264  -&1Susarion& Comic. -0 - - -
+TLG3115  -&1Symeon Metaphrastes& Biogr. et Hist. -0 - - -
+TLG2006  -&1Synesius& Phil. -0 - - -
+TLG2047  -1Syriani, Sopatri et Marcellini Scholia ad Hermogenis Status& -0 - - -
+TLG4017  -&1Syrianus& Phil. -0 - - -
+TLG0510  -1Teleclides& Comic. -0 - - -
+TLG0369  -&1Telesilla& Lyr. -0 - - -
+TLG0377  -1Telestes& Lyr. -0 - - -
+TLG0299  -&1Terpander& Lyr. -0 - - -
+TLG2015  -1Testamentum XL Martyrum& -0 - - -
+TLG1705  -&1Thales& Phil. -0 - - -
+TLG2275  -1Theagenes& Phil. -0 - - -
+TLG2001  -&1Themistius& Phil. et Rhet. -0 - - -
+TLG0206  -&1Theocles& Lyr. -0 - - -
+TLG0005  -&1Theocritus& Bucol. -0 - - -
+TLG0329  -&1Theodectas& Trag. -0 - - -
+TLG4089  -1Theodoretus& Scr. Eccl. et Theol. -0 - - -
+TLG1715  -1Theodoridas& Epigr. -0 - - -
+TLG1094  -1Theodorides& Trag. -0 - - -
+TLG2714  -&1Theodorus Studites& Scr. Eccl. et Theol. -0 - - -
+TLG2237  -&1Theodorus& Math. -0 - - -
+TLG0611  -&1Theodorus& Trag. -0 - - -
+TLG0511  -&1Theognetus& Comic. -0 - - -
+TLG0002  -&1Theognis& Eleg. -0 - - -
+TLG0313  -1Theognis& Trag. -0 - - -
+TLG1724  -1Theon& Phil. -0 - - -
+TLG0607  -&1Theon& Rhet. -0 - - -
+TLG1725  -&1Theophilus& Apol. -0 - - -
+TLG0512  -1Theophilus& Comic. -0 - - -
+TLG0729  -&1Theophilus& Protospatharius Med. -0 - - -
+TLG0728  -&1Theophilus& Protospatharius, &1Damascius& et &1Stephanus& Atheniensis Med. -0 -s Med. - -
+TLG0746  -&1Theophilus& Protospatharius et &1Stephanus& Atheniensis Med. -0 - - -
+TLG0093  -&1Theophrastus& Phil. -0 - - -
+TLG3130  -1Theophylactus Simocatta& Hist. et Epist. -0 - - -
+TLG0513  -&1Theopompus& Comic. -0 - - -
+TLG0566  -&1Theopompus& Hist. -0 - - -
+TLG0301  -1Thespis& Trag. -0 - - -
+TLG0816  -&1Theudotus& Trag. -0 - - -
+TLG2231  -&1Thrasyalces& Phil. -0 - - -
+TLG1729  -&1Thrasymachus& Rhet. et Soph. -0 - - -
+TLG0003  -&1Thucydides& Hist. -0 - - -
+TLG0514  -1Thugenides& Comic. -0 - - -
+TLG1733  -&1Timaeus& Hist. -0 - - -
+TLG1734  -&1Timaeus& Phil. -0 - - -
+TLG0889  -&1Timesitheus& Trag. -0 - - -
+TLG0515  -&1Timocles& Comic. -0 - - -
+TLG0333  -&1Timocles& Trag. -0 - - -
+TLG0265  -1Timocreon& Lyr. -0 - - -
+TLG1735  -1Timon& Phil. -0 - - -
+TLG0516  -&1Timostratus& Comic. -0 - - -
+TLG0517  -1Timotheus& Comic. -0 - - -
+TLG0376  -1Timotheus& Lyr. -0 - - -
+TLG0467  -1Timotheus& Trag. -0 - - -
+TLG1793  -&1Timoxenus& Comic. -0 - - -
+TLG1738  -1Tragica Adespota& -0 - - -
+TLG2127  -1Troilus& Soph. -0 - - -
+TLG0609  -&1Tryphon I& Gramm. -0 - - -
+TLG0367  -1Tynnichus& Lyr. -0 - - -
+TLG0266  -1Tyrtaeus& Eleg. -0 - - -
+TLG1764  -1Vettius Valens& Astrol. -0 - - -
+TLG1747  -1Vita Adam et Evae& -0 - - -
+TLG4166  -&1Vitae Aeschinis& -0 - - -
+TLG1765  -&1Vitae Aesopi& -0 - - -
+TLG4161  -1Vitae Arati et Varia de Arato& -0 - - -
+TLG1749  -&1Vitae Hesiodi Particula& -0 - - -
+TLG1805  -&1Vitae Homeri& -0 - - -
+TLG4172  -1Vitae Oppiani& -0 - - -
+TLG4170  -&1Vitae Pindari et Varia de Pindaro& -0 - - -
+TLG0518  -&1Xenarchus& Comic. -0 - - -
+TLG2355  -1Xeniades& Soph. -0 - - -
+TLG0519  -1Xeno& Comic. -0 - - -
+TLG0316  -&1Xenocles& Trag. -0 - - -
+TLG0267  -1Xenophanes& Poet. Phil. -0 - - -
+TLG2241  -1Xenophilus& Phil. et Mus. -0 - - -
+TLG0032  -1Xenophon& Hist. -0 - - -
+TLG0641  -1Xenophon& Scr. Erot. -0 - - -
+TLG2229  -&1Xuthus& Phil. -0 - - -
+TLG0601  -2&1Zaleucus& Nomographus]2 [2Phil.]2 -0 - - -
+TLG0595  -1Zeno& Phil. -0 - - -
+TLG0597  -1Zenodorus& Gramm. -0 - - -
+TLG0354  -1Zenodotus& Trag. -0 - - -
+TLG0355  -&1Zopyrus& Trag. -0 - - -
+DOCCAN1  -&1TLG Canon&, bibliography -0 - - -e
+DOCCAN2  -&1TLG Canon&, data base -0 - - -e
+
+
+Total Author count is 839

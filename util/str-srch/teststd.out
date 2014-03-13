@@ -1,0 +1,28 @@
+exact match on pattern SKEU/H on an 8K block from TLG0343.txt
+Ignore_set == ""
+Total iteration count = 10000
+Default optimization level
+
+** strstr() results **
+     Total elapsed time = 73 seconds
+     elapsed time per search = 0.007300 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BM_Srch() results **
+     Total elapsed time = 95 seconds
+     elapsed time per search = 0.009500 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 1746 seconds
+     elapsed time per search = 0.174600 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 2203 seconds
+     elapsed time per search = 0.220300 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+

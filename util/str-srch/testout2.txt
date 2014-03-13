@@ -1,0 +1,132 @@
+Total iteration count = 1000
+Pattern = SKEUH
+Ignore_set = ()|+/\=
+Searching file ..\..\data\tlg0343.txt
+
+** BM_Srch() results **
+     Total elapsed time = 0 seconds
+     elapsed time per search = 0.000000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 185 seconds
+     elapsed time per search = 0.185000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 270 seconds
+     elapsed time per search = 0.270000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+Total iteration count = 1000
+Pattern = SKEU/H
+Ignore_set = ()|+/\=
+Searching file ..\..\data\tlg0343.txt
+
+** BM_Srch() results **
+     Total elapsed time = 0 seconds
+     elapsed time per search = 0.000000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 185 seconds
+     elapsed time per search = 0.185000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 270 seconds
+     elapsed time per search = 0.270000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+Total iteration count = 1000
+Pattern = SKEU\\H
+Ignore_set = ()|+/\=
+Searching file ..\..\data\tlg0343.txt
+
+** BM_Srch() results **
+     Total elapsed time = 1 seconds
+     elapsed time per search = 0.001000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 185 seconds
+     elapsed time per search = 0.185000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 270 seconds
+     elapsed time per search = 0.270000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+Total iteration count = 1000
+Pattern = SKEU)H
+Ignore_set = ()|+/\=
+Searching file ..\..\data\tlg0343.txt
+
+** BM_Srch() results **
+     Total elapsed time = 0 seconds
+     elapsed time per search = 0.000000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 185 seconds
+     elapsed time per search = 0.185000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 270 seconds
+     elapsed time per search = 0.270000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+Total iteration count = 1000
+Pattern = S)K/E(UH
+Ignore_set = ()|+/\=
+Searching file ..\..\data\tlg0343.txt
+
+** BM_Srch() results **
+     Total elapsed time = 0 seconds
+     elapsed time per search = 0.000000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 186 seconds
+     elapsed time per search = 0.186000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 269 seconds
+     elapsed time per search = 0.269000 seconds
+     found pattern = SKEU/H %KO/SMON TE PA/NQ', O(\N A)/NQRWPOS FE/REI, þ
+
+Total iteration count = 1000
+Pattern = ANQRWPOS
+Ignore_set = ()|+/\=
+Searching file ..\..\data\tlg0343.txt
+
+** BM_Srch() results **
+     Total elapsed time = 0 seconds
+     elapsed time per search = 0.000000 seconds
+     found pattern = A)/NQRWPOS FE/REI, þ
+
+
+** BYG_Srch() results **
+     Total elapsed time = 186 seconds
+     elapsed time per search = 0.186000 seconds
+     found pattern = /NQRWPOS FE/REI, þ
+
+
+** regex() results **
+     Total elapsed time = 273 seconds
+     elapsed time per search = 0.273000 seconds
+     found pattern = A)/NQRWPOS FE/REI, þ
+

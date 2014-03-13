@@ -1,0 +1,718 @@
+[ver]
+	4
+[sty]
+	_TOC.STY
+[files]
+[charset]
+	82
+	ANSI (Windows, IBM CP 1252)
+[revisions]
+	0
+[recfile]
+	c:\docsami\docs\datatabl.sam
+	
+	1
+	1
+	3
+	12
+	1440
+	1440
+[toc]
+	Chapter Head
+	Subhead
+	Example Title
+	.
+	.
+	.
+	63
+[prn]
+	PostScript Printer
+[port]
+	LPT1:
+[lang]
+	1
+[desc]
+	
+	
+	
+	
+	
+	762668247
+	2
+	762505162
+	3
+	2
+	0
+	0
+	0
+	0
+	
+	
+	
+	
+	
+	
+	1
+[fopts]
+	0
+	1
+	0
+	0
+[lnopts]
+	2
+	Body Text
+	1
+[docopts]
+	5
+	2
+[GramStyle]
+	
+[ParaNum]
+	1
+[frm]
+	1
+	1703940
+	1440
+	1440
+	10786
+	14351
+	0
+	1
+	1
+	1 0 0 0 0 0 0
+	0
+	16777215
+	3
+	0
+	0
+	255 1280
+	[frmlay]
+		1998
+		9346
+		1
+		0
+		0
+		1
+		1440
+		0
+		0
+		2
+		0
+		255
+		255
+		128
+		1
+		1440
+		10800
+		0
+	[tbl]
+		 65 2 279 86 4573 86 1 43 43
+		[h]
+			 0 332 86 2 0 2 0
+			 1 284 86 2 0 2 0
+			 2 284 86 2 0 2 0
+			 3 284 86 2 0 2 0
+			 4 284 86 2 0 2 0
+			 5 284 86 2 0 2 0
+			 6 284 86 2 0 2 0
+			 7 332 86 2 0 2 0
+			 8 332 86 2 0 2 0
+			 9 284 86 2 0 2 0
+			 10 284 86 2 0 2 0
+			 11 284 86 2 0 2 0
+			 12 284 86 2 0 2 0
+			 13 284 86 2 0 2 0
+			 14 284 86 2 0 2 0
+			 15 284 86 2 0 2 0
+			 16 284 86 2 0 2 0
+			 17 284 86 2 0 2 0
+			 18 284 86 2 0 2 0
+			 19 284 86 2 0 2 0
+			 20 332 86 2 0 2 0
+			 21 284 86 2 0 2 0
+			 22 284 86 2 0 2 0
+			 23 284 86 2 0 2 0
+			 24 284 86 2 0 2 0
+			 25 284 86 2 0 2 0
+			 26 284 86 2 0 2 0
+			 27 332 86 2 0 2 0
+			 28 332 86 2 0 2 0
+			 29 284 86 2 0 2 0
+			 30 284 86 2 0 2 0
+			 31 284 86 2 0 2 0
+			 32 284 86 2 0 2 0
+			 33 284 86 2 0 2 0
+			 34 284 86 2 0 2 0
+			 35 284 86 2 0 2 0
+			 36 284 86 2 0 2 0
+			 37 284 86 2 0 2 0
+			 38 284 86 2 0 2 0
+			 39 284 86 2 0 2 0
+			 40 284 86 2 0 2 0
+			 41 284 86 2 0 2 0
+			 42 284 86 2 0 2 0
+			 43 284 86 2 0 2 0
+			 44 284 86 2 0 2 0
+			 45 284 86 2 0 2 0
+			 46 284 86 2 0 2 0
+			 47 284 86 2 0 2 0
+			 48 284 86 2 0 2 0
+			 49 332 86 2 0 2 0
+			 50 332 86 2 0 2 0
+			 51 332 86 2 0 2 0
+			 52 332 86 2 0 2 0
+			 53 332 86 2 0 2 0
+			 54 284 86 2 0 2 0
+			 55 284 86 2 0 2 0
+			 56 284 86 2 0 2 0
+			 57 284 86 2 0 2 0
+			 58 284 86 2 0 2 0
+			 59 284 86 2 0 2 0
+			 60 284 86 2 0 2 0
+			 61 284 86 2 0 2 0
+			 62 284 86 2 0 2 0
+			 63 332 86 2 0 2 0
+			 64 332 86 2 0 2 0
+		[e]
+		[w]
+			 0 7519 86 2 0
+			 1 1612 86 2 0
+		[e]
+		[data]
+			 50 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@APPENDIX B:  Canon fields
+
+>
+			 50 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 33
+
+>
+			 51 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@APPENDIX C:  Registration form
+
+>
+			 51 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 34
+
+>
+			 52 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@APPENDIX D:  Bug Report Form
+
+>
+			 52 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 35
+
+>
+			 53 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@APPENDIX E: Installation Guide
+
+>
+			 53 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 36
+
+>
+			 54 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->RUNNING INSTALL<-->
+
+>
+			 54 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 36
+
+>
+			 55 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Install Main Screen
+
+>
+			 55 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 37
+
+>
+			 56 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Source Drive and Directory
+
+>
+			 56 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 37
+
+>
+			 57 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Destination Drive and Directory
+
+>
+			 57 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 37
+
+>
+			 58 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->CONFIGURING CHIRON<-->
+
+>
+			 58 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 38
+
+>
+			 59 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Installed Drive and Directory
+
+>
+			 59 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 38
+
+>
+			 60 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Data Drive and Directory
+
+>
+			 60 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 38
+
+>
+			 61 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Printer Configuration and Port Selection
+
+>
+			 61 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 38
+
+>
+			 62 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@CD-ROM Selection
+
+>
+			 62 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 38
+
+>
+			 63 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@APPENDIX F : Command Reference Guide
+
+>
+			 63 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 39
+
+>
+			 64 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@APPENDIX G : Future additions to CHIRON
+
+>
+			 64 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 40
+
+>
+			 0 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@<+!>Introduction
+
+>
+			 0 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 1
+
+>
+			 1 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Registering the Program
+
+>
+			 1 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 2
+
+>
+			 2 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Document Conventions
+
+>
+			 2 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 2
+
+>
+			 3 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@System Requirements
+
+>
+			 3 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 3
+
+>
+			 4 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->ABOUT CELLAR DOOR SOFTWARE<-->
+
+>
+			 4 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 3
+
+>
+			 5 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->REPORTING PROBLEMS OR BUGS<-->
+
+>
+			 5 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 3
+
+>
+			 6 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->PRINTER SUPPORT ( why only Epson FX-80 and compatibles ? )<-->
+
+>
+			 6 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 4
+
+>
+			 7 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@Starting CHIRON
+
+>
+			 7 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 5
+
+>
+			 8 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@Command Summary
+
+>
+			 8 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 6
+
+>
+			 9 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Help Menu
+
+>
+			 9 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 6
+
+>
+			 10 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Find Menu
+
+>
+			 10 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 6
+
+>
+			 11 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Text Menu
+
+>
+			 11 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 7
+
+>
+			 12 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Info Menu
+
+>
+			 12 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 8
+
+>
+			 13 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Output Menu
+
+>
+			 13 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 8
+
+>
+			 14 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Quit Button
+
+>
+			 14 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 9
+
+>
+			 15 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Pattern Entry Field
+
+>
+			 15 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 9
+
+>
+			 16 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Author Entry Field
+
+>
+			 16 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 9
+
+>
+			 17 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Work Entry Field
+
+>
+			 17 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 10
+
+>
+			 18 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Citation Entry Field
+
+>
+			 18 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 10
+
+>
+			 19 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@Text Window
+
+>
+			 19 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 10
+
+>
+			 20 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@Searching and Browsing
+
+>
+			 20 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 12
+
+>
+			 21 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->ENTERING WORDS AND PATTERnS<-->
+
+>
+			 21 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 13
+
+>
+			 22 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->SIMPLE WORD SEARCH<-->
+
+>
+			 22 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 13
+
+>
+			 23 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->SINGLE PATTERN SEARCH<-->
+
+>
+			 23 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 13
+
+>
+			 24 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->COMBINATIONS OF WORDS AND PATTERNS<-->
+
+>
+			 24 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 14
+
+>
+			 25 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->GOING TO NEXT MATCH<-->
+
+>
+			 25 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 15
+
+>
+			 26 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->BROWSING<-->
+
+>
+			 26 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 16
+
+>
+			 27 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@Printing and Saving
+
+>
+			 27 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 17
+
+>
+			 28 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@Tutorial
+
+>
+			 28 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 18
+
+>
+			 29 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->BROWSING<-->
+
+>
+			 29 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 18
+
+>
+			 30 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 1 : Choosing an Author and Work
+
+>
+			 30 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 18
+
+>
+			 31 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 2 : Moving to a Specific Citation
+
+>
+			 31 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 19
+
+>
+			 32 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->SEARCHING THE WORD LIST ONLY<-->
+
+>
+			 32 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 20
+
+>
+			 33 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 3 : Single Word Search
+
+>
+			 33 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 20
+
+>
+			 34 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 4 : Single Pattern with Unknown Character
+
+>
+			 34 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 21
+
+>
+			 35 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 5 : Single Pattern with Unknown Ending
+
+>
+			 35 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 22
+
+>
+			 36 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 6 : Including Diacriticals
+
+>
+			 36 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 23
+
+>
+			 37 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->SEARCHING THE TEXT THROUGH THE WORD LIST<-->
+
+>
+			 37 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 24
+
+>
+			 38 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 7 :A Particular Match of a Single Pattern
+
+>
+			 38 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 24
+
+>
+			 39 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 8 : All Matches of a Single Pattern
+
+>
+			 39 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 25
+
+>
+			 40 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 9 : All Matches of a Combination of Patterns
+
+>
+			 40 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 26
+
+>
+			 41 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->SEARCHING THE TEXT DIRECTLY<-->
+
+>
+			 41 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 27
+
+>
+			 42 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 10 : Searching Within a Particular Work
+
+>
+			 42 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 27
+
+>
+			 43 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 11 : All Matches of an arbitrary pattern in all text
+
+>
+			 43 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 28
+
+>
+			 44 0 16384 0 0 0 0 1 0 0 0 0
+@TOC2@<+->PRINTING AND SAVING<-->
+
+>
+			 44 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG2@Page 28
+
+>
+			 45 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 12 :Printing or Saving the Current Citation
+
+>
+			 45 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 29
+
+>
+			 46 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 13 : Printing or Saving all the Citations
+
+>
+			 46 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 30
+
+>
+			 47 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 14 : Printing or Saving Canon Information
+
+>
+			 47 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 30
+
+>
+			 48 0 16384 0 0 0 0 1 0 0 0 0
+@TOC3@Example 16 : Canon Information
+
+>
+			 48 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG3@Page 31
+
+>
+			 49 0 16384 0 0 0 0 1 0 0 0 0
+@TOC1@APPENDIX A:  Beta Code
+
+>
+			 49 1 16384 0 0 0 0 1 0 0 0 0
+@TOCPG1@Page 32
+
+>
+		[e]
+	[tble]
+[l1]
+	0
+[pg]
+	2
+	1 0 5 0 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 34 0 0
+	2 0 0 1025 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+[edoc]
+<:t0>
+
+<:#284,9360>
+
+>
+
+[Embedded]
+00011134
